@@ -11,7 +11,7 @@ Tyser et al. 2021: https://doi.org/10.1038/s41586-021-04158-y
 
 Petropoulos et al. 2016: https://doi.org/10.1016/j.cell.2016.03.023
 
-Petropoulos annotation source: https://doi.org/10.1016/j.celrep.2020.108419
+Petropoulos annotation source (Castel et al. 2020): https://doi.org/10.1016/j.celrep.2020.108419
 
 The count matrix and metadata to follow the script are available here.
 
